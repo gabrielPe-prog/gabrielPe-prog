@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Cordeiro</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
-
+<img align="right" width="400px" src="https://i.redd.it/zym5pybotlja1.gif">
 - 🔭 I’m currently working on [Web Application for Aquatic Academy Raia 7](https://github.com/gabrielPe-prog/Raia7)
 
 - 🌱 I’m currently learning **Node J.S. With Express**
