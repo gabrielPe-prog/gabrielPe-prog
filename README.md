@@ -1,7 +1,7 @@
 <h1 align="center">I'm Gabriel Cordeiro</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 <img align="right" width="400px" src="https://i.redd.it/zym5pybotlja1.gif">
-- 🔭 I Work with PHP, SQL and know about Front-End tech
+- 🔭 I Work with PHP, SQL, Docker and know about Front-End tech
 
 - 📫 How to reach me **if.gabriel.else.leite@gmail.com**
 
